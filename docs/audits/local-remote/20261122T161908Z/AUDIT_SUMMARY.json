@@ -1,0 +1,24 @@
+{
+  "Repository": "AlOussama/Simplus-Grid-Tool",
+  "Branch": "audit/local-remote/Simplus-Grid-Tool-20261122T161908Z",
+  "Snapshots": [
+    {
+      "CheckedUtc": "2026-11-22T16:38:05.3050402Z",
+      "BaseSHA": "c6864612b519a19ee10abfc609a25b6536075539",
+      "CheckoutSHA": "c6864612b519a19ee10abfc609a25b6536075539",
+      "CommitsWithoutRemoteProof": 0,
+      "LocalChanges": 13,
+      "UnverifiedFiles": 0,
+      "ExactDuplicateGroups": 0,
+      "BranchComparisons": [
+        {
+          "Tip": "c6864612b519a19ee10abfc609a25b6536075539",
+          "Basis": "c6864612b519a19ee10abfc609a25b6536075539",
+          "Ahead": "0",
+          "Behind": "0",
+          "Relation": "IDENTICAL"
+        }
+      ]
+    }
+  ]
+}
